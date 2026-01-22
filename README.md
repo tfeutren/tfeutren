@@ -1,16 +1,22 @@
-## Hi there 👋
+# Tapotons ⌨️ 🇫🇷
 
-<!--
-**tfeutren/tfeutren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tapotons est une plateforme française de dactylographie pour apprendre à taper efficacement au clavier (10 doigts).
 
-Here are some ideas to get you started:
+➡️ Site : https://tapotons.fr  
+📝 Article : https://medium.com/@tapotons/savez-vous-taper-avec-vos-10-doigts-06b8cc458198
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fonctionnalités
+- Compte utilisateur (Google / email)
+- Cours touche par touche (jf, dk, …)
+- Exercices (textes par catégories)
+- Statistiques : vitesse, précision, progression, erreurs fréquentes
+- “Cibler vos erreurs” : textes générés automatiquement selon vos fautes
+- Mode clair / sombre
+- Premium : 4€/mois
+
+## Tech
+- Frontend : VueJS + Astro (Firebase)
+- Backend : NestJS (Render)
+- DB : PostgreSQL (Neon)
+- ORM : Prisma
+- Paiement : Stripe
