@@ -6,8 +6,10 @@
 Tapotons est une plateforme de dactylographie pour apprendre à taper efficacement au clavier (10 doigts).
 
 ➡️ Site : 🇫🇷 https://tapotons.fr | 🇺🇸 https://tapotons.com 
+
 📝 Article : https://medium.com/@tapotons/savez-vous-taper-avec-vos-10-doigts-06b8cc458198
-📗 Page bog : https//tapotons.fr/blog
+
+📗 Page bog : https://tapotons.fr/blog
 
 ## Fonctionnalités
 - Compte utilisateur (Google / email)
