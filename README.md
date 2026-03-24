@@ -1,8 +1,9 @@
-# Tapotons ⌨️ 🇫🇷
+# Tapotons ⌨️
 
-[![Tapotons](https://img.shields.io/badge/Tapotons-Visiter%20le%20site-blue)](https://tapotons.fr)
+[![tapotons.fr](https://img.shields.io/badge/Tapotons-Visiter%20le%20site-blue)](https://tapotons.fr)
+[![tapotons.com](https://img.shields.io/badge/Tapotons-Visiter%20le%20site-blue)](https://tapotons.com)
 
-Tapotons est une plateforme française de dactylographie pour apprendre à taper efficacement au clavier (10 doigts).
+Tapotons est une plateforme de dactylographie pour apprendre à taper efficacement au clavier (10 doigts).
 
 ➡️ Site : https://tapotons.fr  
 📝 Article : https://medium.com/@tapotons/savez-vous-taper-avec-vos-10-doigts-06b8cc458198
